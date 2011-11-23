@@ -1,0 +1,17 @@
+#summary One-sentence summary of this page.
+#labels SURF
+
+= Introduction =
+SURF
+
+
+= Details =
+*a good comparison of SURF and SIFT
+http://www.cscjournals.org/csc/manuscript/Journals/IJIP/volume3/Issue4/IJIP-51.pdf
+
+*SURF wiki page of libraries
+http://en.wikipedia.org/wiki/SURF
+
+
+*OpenSURF - matlab implementation
+http://www.mathworks.com/matlabcentral/fileexchange/28300-opensurf-including-image-warp
